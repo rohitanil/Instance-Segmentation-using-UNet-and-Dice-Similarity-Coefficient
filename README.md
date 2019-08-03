@@ -15,6 +15,9 @@ These instructions will get you a copy of the project up and running on your loc
 7. Sklearn
 8. Pickle
 
+## Dataset
+The data can be downloaded from Kaggle [Dataset]: https://www.kaggle.com/c/data-science-bowl-2018/data
+
 ## Installation
 1. Run `pip install -r requirements.txt` requirements.txt file can be found in Other Folder
 2. Update the path PATH, TEST_PATH, OUTPUT_PATH in the ipynb
